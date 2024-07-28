@@ -1,0 +1,181 @@
+first_quarter,second_quarter,third_quarter,fourth_quarter,Year
+Apple,Apple,Apple,Apple,2023
+Microsoft,Microsoft,Microsoft,Microsoft,2023
+Alphabet,Alphabet,Alphabet,Alphabet,2023
+Amazon,Amazon,Amazon,Amazon,2023
+Nvidia,Nvidia,Nvidia,Nvidia,2023
+Berkshire Hathaway,Tesla,Tesla,Meta,2023
+Tesla,Berkshire Hathaway,Meta,Tesla,2023
+Meta,Meta,Berkshire Hathaway,Berkshire Hathaway,2023
+TSMC,TSMC,Eli Lilly,Eli Lilly,2023
+Visa,Visa,Visa,TSMC,2023
+Apple,Apple,Apple,Apple,2022
+Microsoft,Microsoft,Microsoft,Microsoft,2022
+Alphabet,Alphabet,Alphabet,Alphabet,2022
+Amazon,Amazon,Amazon,Amazon,2022
+Tesla,Tesla,Tesla,Berkshire,2022
+Berkshire Hathaway,Berkshire Hathaway,Berkshire Hathaway,UnitedHealth,2022
+Nvidia,UnitedHealth,UnitedHealth,Johnson,2022
+Meta,Johnson & Johnson,Johnson &amp; Johnson,ExxonMobil,2022
+TSMC,Tencent,Visa,Visa,2022
+UnitedHealth,Meta,Meta,Tencent,2022
+Apple,Apple,Apple,Apple,2021
+Microsoft,Microsoft,Microsoft,Microsoft,2021
+Amazon,Amazon,Alphabet,Alphabet,2021
+Alphabet,Alphabet,Amazon,Amazon,2021
+Meta,Meta,Meta,Tesla,2021
+Tencent,Tencent,Tesla,Meta,2021
+Tesla,Tesla,Berkshire Hathaway,Nvidia,2021
+Alibaba Group,Berkshire Hathaway,TSMC,Berkshire Hathaway,2021
+TSMC,TSMC,Tencent,TSMC,2021
+Berkshire Hathaway,Alibaba Group,Nvidia,Tencent,2021
+Microsoft,Apple,Apple,Apple,2020
+Apple,Microsoft,Microsoft,Microsoft,2020
+Amazon,Amazon,Amazon,Amazon,2020
+Alphabet,Alphabet,Alphabet,Alphabet,2020
+Alibaba Group,Facebook,Alibaba Group,Facebook,2020
+Facebook,Tencent,Facebook,Tencent,2020
+Tencent,Alibaba Group,Tencent,Tesla,2020
+Berkshire Hathaway,Berkshire Hathaway,Berkshire Hathaway,Alibaba Group,2020
+Visa,Visa,Visa,TSMC,2020
+Johnson & Johnson,Johnson &amp; Johnson,TSMC,Berkshire Hathaway,2020
+Microsoft,Microsoft,Microsoft,Apple,2019
+Apple,Amazon,Apple,Microsoft,2019
+Amazon,Apple,Amazon,Alphabet,2019
+Alphabet,Alphabet,Alphabet,Amazon,2019
+Berkshire Hathaway,Facebook,Berkshire Hathaway,Facebook,2019
+Facebook,Berkshire Hathaway,Facebook,Alibaba Group,2019
+Alibaba Group,Alibaba Group,Alibaba Group,Berkshire Hathaway,2019
+Tencent,Tencent,Tencent,Tencent,2019
+Johnson & Johnson,Visa,Visa,JPMorgan Chase,2019
+Visa,Johnson &amp; Johnson,JPMorgan Chase,Visa,2019
+Apple,Apple,Apple,Microsoft,2018
+Alphabet,Amazon,Amazon,Apple,2018
+Microsoft,Alphabet,Microsoft,Amazon,2018
+Amazon,Microsoft,Alphabet,Alphabet,2018
+Tencent,Facebook,Berkshire Hathaway,Berkshire Hathaway,2018
+Berkshire Hathaway,Tencent,Facebook,Facebook,2018
+Alibaba Group,Alibaba Group,Alibaba Group,Tencent,2018
+Facebook,Berkshire Hathaway,Tencent,Alibaba Group,2018
+JPMorgan Chase,JPMorgan Chase,JPMorgan Chase,Johnson &amp; Johnson,2018
+Johnson & Johnson,ExxonMobil,Johnson &amp; Johnson,JPMorgan Chase,2018
+Apple,Apple,Apple,Apple,2017
+Alphabet,Alphabet,Alphabet,Alphabet,2017
+Microsoft,Microsoft,Microsoft,Microsoft,2017
+Amazon,Amazon,Amazon,Amazon,2017
+Berkshire Hathaway,Berkshire Hathaway,Berkshire Hathaway,Facebook,2017
+ExxonMobil,Johnson &amp; Johnson,Alibaba Group,Tencent,2017
+Johnson & Johnson,Facebook,Tencent,Berkshire Hathaway,2017
+Facebook,Alibaba Group,Facebook,Alibaba Group,2017
+JPMorgan Chase,Tencent,ExxonMobil,Johnson &amp; Johnson,2017
+Wells Fargo,ExxonMobil,Johnson &amp; Johnson,JPMorgan Chase,2017
+Apple,Apple,Apple,Apple,2016
+Alphabet,Alphabet,Alphabet,Alphabet,2016
+Microsoft,Microsoft,Microsoft,Microsoft,2016
+ExxonMobil,ExxonMobil,Amazon,Berkshire Hathaway,2016
+Berkshire Hathaway,Berkshire Hathaway,ExxonMobil,ExxonMobil,2016
+Johnson & Johnson,Amazon,Berkshire Hathaway,Amazon,2016
+General Electric,Johnson &amp; Johnson,Johnson &amp; Johnson,Johnson &amp; Johnson,2016
+Amazon,General Electric,Facebook,JPMorgan Chase,2016
+Facebook,Facebook,Tencent,General Electric,2016
+Wells Fargo,AT&T,General Electric,Wells Fargo,2016
+Apple,Apple,Apple,Apple,2015
+ExxonMobil,Microsoft,Google,Alphabet,2015
+Berkshire Hathaway,ExxonMobil,Microsoft,Microsoft,2015
+Google,Google,Berkshire Hathaway,Berkshire Hathaway,2015
+Microsoft,Berkshire Hathaway,ExxonMobil,ExxonMobil,2015
+Petro China,Petro China,Johnson &amp; Johnson,Amazon,2015
+Wells Fargo,ICBC,General Electric,General Electric,2015
+Johnson & Johnson,Wells Fargo,China Mobile,Johnson &amp; Johnson,2015
+ICBC,Johnson &amp; Johnson,Novartis,Wells Fargo,2015
+Novartis,General Electric,Nestlé,JPMorgan Chase,2015
+Apple,Apple,Apple,Apple,2014
+ExxonMobil,ExxonMobil,ExxonMobil,ExxonMobil,2014
+Microsoft,Google,Microsoft,Microsoft,2014
+Google,Microsoft,Google,Berkshire Hathaway,2014
+Berkshire Hathaway,Berkshire Hathaway,Berkshire Hathaway,Google,2014
+Johnson & Johnson,Johnson &amp; Johnson,Johnson &amp; Johnson,PetroChina,2014
+Wells Fargo,Wells Fargo,Wells Fargo,Johnson &amp; Johnson,2014
+General Electric,Royal Dutch Shell,General Electric,Wells Fargo,2014
+Hoffmann-La Roche,General Electric,Novartis,Walmart,2014
+Walmart,Hoffmann-La Roche,Hoffmann-La Roche,ICBC,2014
+Apple,ExxonMobil,Apple,Apple,2013
+ExxonMobil,Apple,ExxonMobil,ExxonMobil,2013
+Berkshire Hathaway,Microsoft,Berkshire Hathaway,Microsoft,2013
+PetroChina,Berkshire Hathaway,Microsoft,Google,2013
+Walmart,Walmart,Johnson &amp; Johnson,Berkshire Hathaway,2013
+General Electric,Johnson & Johnson,General Electric,General Electric,2013
+Microsoft,General Electric,Walmart,Johnson &amp; Johnson,2013
+IBM,Google,Google,Walmart,2013
+Nestlé,Chevron Corporation,Chevron Corporation,Hoffmann-La Roche,2013
+Chevron Corporation,ICBC,Hoffmann-La Roche,Chevron Corporation,2013
+Apple,Apple,Apple,Apple,2012
+ExxonMobil,ExxonMobil,ExxonMobil,ExxonMobil,2012
+PetroChina,PetroChina,PetroChina,PetroChina,2012
+Microsoft,Microsoft,Microsoft,BHP Billiton,2012
+IBM,Walmart,Walmart,ICBC,2012
+ICBC,IBM,General Electric,China Mobile,2012
+Royal Dutch Shell,General Electric,IBM,Walmart,2012
+China Mobile,China Mobile,Chevron Corporation,Samsung Electronics,2012
+General Electric,Royal Dutch Shell,China Mobile,Microsoft,2012
+Chevron Corporation,ICBC,Royal Dutch Shell,Royal Dutch Shell,2012
+ExxonMobil,ExxonMobil,Apple,ExxonMobil,2011
+PetroChina,Apple,ExxonMobil,Apple,2011
+Apple,PetroChina,PetroChina,PetroChina,2011
+ICBC,ICBC,IBM,Royal Dutch Shell,2011
+Petrobras,BHP Billiton,Microsoft,ICBC,2011
+BHP Billiton,Royal Dutch Shell,ICBC,Microsoft,2011
+China Construction Bank,Microsoft,China Mobile,IBM,2011
+Royal Dutch Shell,Nestlé,Royal Dutch Shell,Chevron Corporation,2011
+Chevron Corporation,Petrobras,Nestlé,Walmart,2011
+Microsoft,IBM,Chevron Corporation,China Mobile,2011
+PetroChina,ExxonMobil,ExxonMobil,ExxonMobil,2010
+ExxonMobil,PetroChina,PetroChina,PetroChina,2010
+Microsoft,Apple,Apple,Apple,2010
+ICBC,ICBC,Petrobras,BHP Billiton,2010
+Apple,Microsoft,ICBC,Microsoft,2010
+BHP Billiton,China Mobile,Microsoft,ICBC,2010
+Walmart,Berkshire Hathaway,China Mobile,Petrobras,2010
+Berkshire Hathaway,China Construction Bank,Berkshire Hathaway,China Construction Bank,2010
+General Electric,Walmart,China Construction Bank,Royal Dutch Shell,2010
+China Mobile,Procter & Gamble,BHP Billiton,Nestlé,2010
+ExxonMobil,PetroChina,ExxonMobil,PetroChina,2009
+PetroChina,ExxonMobil,PetroChina,ExxonMobil,2009
+Walmart,ICBC,ICBC,Microsoft,2009
+ICBC,Microsoft,Microsoft,ICBC,2009
+China Mobile,China Mobile,HSBC,Walmart,2009
+Microsoft,Walmart,China Mobile,China Construction Bank,2009
+AT&T,China Construction Bank,Walmart,BHP Billiton,2009
+Johnson & Johnson,Petrobras,Petrobras,HSBC,2009
+Royal Dutch Shell,Johnson &amp; Johnson,China Construction Bank,Petrobras,2009
+Procter & Gamble,Royal Dutch Shell,Royal Dutch Shell,Apple,2009
+ExxonMobil,ExxonMobil,ExxonMobil,ExxonMobil,2008
+PetroChina,PetroChina,PetroChina,PetroChina,2008
+General Electric,ICBC,ICBC,Walmart,2008
+Gazprom,Microsoft,Microsoft,China Mobile,2008
+China Mobile,China Mobile,HSBC,Procter & Gamble,2008
+ICBC,Walmart,China Mobile,ICBC,2008
+Microsoft,China Construction Bank,Walmart,Microsoft,2008
+AT&T,Petrobras,Petrobras,AT&T,2008
+Royal Dutch Shell,Johnson &amp; Johnson,China Construction Bank,Johnson & Johnson,2008
+Procter & Gamble,Royal Dutch Shell,Royal Dutch Shell,General Electric,2008
+ExxonMobil,ExxonMobil,ExxonMobil,Petrochina,2007
+General Electric,General Electric,General Electric,ExxonMobil,2007
+Microsoft,Microsoft,China Mobile,General Electric,2007
+Citigroup,Royal Dutch Shell,ICBC,China Mobile,2007
+AT&T,AT&amp;T,Microsoft,ICBC,2007
+Gazprom,Citigroup,Royal Dutch Shell,Microsoft,2007
+Toyota,Gazprom,Gazprom,Gazprom,2007
+Bank of America,BP,AT&amp;T,Royal Dutch Shell,2007
+ICBC,Toyota,Citigroup,AT&amp;T,2007
+Royal Dutch Shell,Bank of America,Bank of America,Sinopec,2007
+ExxonMobil,ExxonMobil,ExxonMobil,ExxonMobil,2006
+General Electric,General Electric,General Electric,General Electric,2006
+Microsoft,Gazprom,Microsoft,Microsoft,2006
+Citigroup,Citigroup,Gazprom,Citigroup,2006
+BP,Microsoft,Citigroup,Gazprom,2006
+Bank of America,BP,Bank of America,ICBC,2006
+Royal Dutch Shell,Royal Dutch Shell,Royal Dutch Shell,Toyota,2006
+Walmart,Bank of America,BP,Bank of America,2006
+Toyota,HSBC,HSBC,Royal Dutch Shell,2006
+Gazprom,Walmart,Pfizer,BP,2006
