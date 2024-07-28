@@ -48,7 +48,7 @@ The analysis provides insights into:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-Kaggle for providing the dataset.
-The CS50 course for inspiring this project.
-Matplotlib, Seaborn, and Pandas for data visualization and manipulation.
+- Kaggle for providing the dataset.
+- The CS50 course for inspiring this project.
+- Matplotlib, Seaborn, and Pandas for data visualization and manipulation.
 
