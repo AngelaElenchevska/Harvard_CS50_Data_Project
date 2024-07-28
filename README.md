@@ -1,4 +1,4 @@
-# Publicly Traded Companies Data Analysis Project
+# Analysis of the World's Most Valuable Companies
 
 This project is part of my final project for the CS50 course and involves data analysis of publicly traded companies with the greatest market capitalization from 2006 to 2023. 
 The analysis was performed using a Jupyter Notebook in Google Colab, and the dataset is sourced from Kaggle.
@@ -34,7 +34,7 @@ The dataset is included in this repository as `data.csv`.
 Open the `marketcapanalysis.ipynb` file in Jupyter or Google Colab to explore the analysis.
 The notebook includes detailed comments and visualizations to help you understand the trends in market capitalization over the years.
 
-For a static view of the notebook, you can open the `marketcapanalyis.html` file in any web browser.
+For a static view of the notebook, you can view the project site here: [Analysis of the World's Most Valuable Companies](https://angelaelenchevska.github.io/Harvard_CS50_Data_with_Python/).
 
 ## Results
 
